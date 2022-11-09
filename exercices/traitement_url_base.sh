@@ -21,6 +21,10 @@ fichier_tableau=$2 # le fichier HTML en sortie
 # !!!!!!
 
 # modifier la ligne suivante pour créer effectivement du HTML
+
+
+
+   
 echo "<html>
         <head>
                 <meta charset ="utf-8"/>
@@ -29,18 +33,18 @@ echo "<html>
                 <body>
                 <table>
                 <tr>
-                <th> URLS </th>
-                <th>N°</th>
-                <th> codehttp</th> 
-                </tr></html>"
-                 
-lineno=1;
-
-while read -r line;
+                <th> ligne </th>
+                <th>code</th>
+                <th>url</th> 
+                </tr>" >$fichier_tableau
+                lineno=1;
+                while read -r line;
 do
-	echo "ligne $lineno: $line";
+        URL=$line
+        CODEHTTP=$(curl -I -s $line | head -n1)	
+	echo "<tr><td>$lineno</td><td>$CODEHTTP</td><td>$URL</td></tr>" >> $fichier_tableau
 	lineno=$((lineno+1));
-        header=$(curl -I -s $line | head -n1)	
-        echo "l'entête est  $header";
-done < $fichier_urls
+                
+       done < $fichier_urls               
 
+        echo "</table></body></html>" >> $fichier_tableau
