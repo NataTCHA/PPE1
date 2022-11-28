@@ -36,13 +36,15 @@ echo "<html>
                 <th> ligne </th>
                 <th>code</th>
                 <th>url</th> 
+                <th>encodage</th>
                 </tr>" >$fichier_tableau
                 lineno=1;
                 while read -r line;
 do
         URL=$line
         CODEHTTP=$(curl -I -s $line | head -n1)	
-	echo "<tr><td>$lineno</td><td>$CODEHTTP</td><td>$URL</td></tr>" >> $fichier_tableau
+        ENC=$(curl -I -s $line | grep -Po "charset=[\w-]+")
+	echo "<tr><td>$lineno</td><td>$CODEHTTP</td><td>$URL</td><td>$ENC</td></tr>" >> $fichier_tableau
 	lineno=$((lineno+1));
                 
        done < $fichier_urls               
