@@ -70,9 +70,13 @@ do
 		dump=""
 		ENC=""
 	fi
+	echo "$dump" > "./dumps-text/fich-$lineno.txt"
+
 	count=$(echo $dump | grep -o -i -P "$motif"| wc -l)
+	 grep -E -A2 -B2 $motif ./dumps-text/fich-$lineno.txt > ./contextes/fich-$lineno.txt
+	bash programmes/concordance.sh ./dumps-text/fich-$lineno.txt $motif > ./concordances/fich-$lineno.html
     
-    echo "<tr><td>$lineno</td><td>$CODEHTTP</td><td>$URL</td><td>$ENC</td><td>$count</td></tr>" >> $fichier_tableau
+   	echo "<tr><td>$lineno</td><td>$CODEHTTP</td><td><a href=\"$URL\">$URL</a></td><td>$ENC</td><td><a href="../aspirations/fich-$lineno.html">html</a></td><td><a href="../dumps-text/fich-$lineno.txt">text</a></td><td>$count</td><td><a href="../contextes/fich-$lineno.txt">contextes</a></td><td><a href="../concordances/fich-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau
 	lineno=$((lineno+1));
                 
        done < $fichier_urls               
