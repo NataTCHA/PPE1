@@ -1,14 +1,6 @@
    #Medium alternate
 
-   Get unlimited access
-   Open in app
-   Home
-   Notifications
-   Lists
-   Stories
-     __________________________________________________________________
-
-   Write
+   ____________________
 
    William ACKER
    William ACKER
@@ -613,8 +605,7 @@ Get the Medium app
    lead you to the iOS App store
    A button that says 'Get it on, Google Play', and if clicked it will
    lead you to the Google Play store
-   (BUTTON) Get started
-   ____________________
+   Get unlimited access
    William ACKER
 
 William ACKER

@@ -36,8 +36,8 @@ dans le Rhône
           + Sécurité et protection de la population
           + Transport, mobilité, sécurité routière et fluviale
      * Actualités
+          + Délestage électrique
           + Évènements 2022
-          +
           + Consultations et enquêtes publiques
           + Appels à projets
           + COVID-19
@@ -104,7 +104,7 @@ Sous menu de navigation
 
 Accueil des étrangers
 
-   Mise à jour le 30/11/2022
+   Mise à jour le 12/12/2022
 
    >Vous êtes ressortissant non européen ou européen (hors bénéficiaire
    d'une protection internationale)

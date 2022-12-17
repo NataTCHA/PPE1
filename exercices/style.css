@@ -1,0 +1,18 @@
+table {
+    
+    width: 70%;
+    margin-bottom: 20px;
+    border-collapse: separate;
+    border: 3px solid blue;
+    empty-cells: hide;
+    
+  }
+  
+
+  
+  th, td {
+    padding: 70px;
+    border: 1px solid black;
+    column-width: 6px;
+  }
+  

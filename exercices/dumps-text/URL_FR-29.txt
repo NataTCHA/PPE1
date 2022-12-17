@@ -19,6 +19,7 @@
           + Nos applications mobiles
           + Flux RSS et widgets
           + Nous suivre sur les réseaux sociaux
+          + TV5MONDE Presse
           + Marchés publics
      * (BUTTON) TV5MONDE à travers le monde
           + TV5MONDE Amérique Latine
@@ -210,55 +211,46 @@ Une plateforme saturée
 
 Sur le même thème
 
-     * Protectionnisme : cette décision de Joe Biden qui agace les
-       Européens
-     * Coupe du Monde 2022 : la France en huitièmes, Mbappé chef
-       incontesté des Bleus
-     * France : faut-il abolir la corrida ?
-     * Coupe du monde 2022 : la France entre dans le tournoi sans
-       certitude
-     * "Indignez-vous !" : après le livre, la bande-dessinée
+     * Procès de l'attentat de Nice : 2 à 18 ans de prison pour les
+       accusés
+     * Littérature : Shumona Sinha écrit sur sa vie
+     * Soutien au peuple iranien à Paris
+     * Culture : Jace célèbre les 30 ans de ses gouzous dans une
+       exposition
+     * La (très) grande évasion, un documentaire choc !
 
 En ce moment
 
-     * Ukraine-Russie : la guerre
-     * COP27
-     * 18e Sommet de la Francophonie
      * Coupe du monde 2022
-     * [à vrai dire] infos ou intox ?
+     * Ukraine-Russie : la guerre
      * La Russie et l'Afrique
-     * Guerre en Éthiopie
+     * L'actualité en RDC
+     * [à vrai dire] infos ou intox ?
 
 A la une
 
-   L&#039;ancien président chinois Jiang Zemin lors de la session
-   d&#039;ouverture du 18e Congrès du Parti communiste qui s&#039;est tenu
-   au Grand Palais du Peuple à Pékin, le 8 novembre 2012.&amp;nbsp;
-   Chine : l'ancien président chinois Jiang Zemin est mort (média d'Etat)
-   Des bougies, un drapeau de la Belgique ou encore un chapeau. Le 24
-   mars, deux jours après les attentats, hommage aux victimes, Place de la
-   Bourse dans le centre de Bruxelles.
-   Attentats de mars 2016 à Bruxelles : ouverture d'un procès historique
-   en Belgique
+   Centre de Kiev sous la neige, en Ukraine, le 12 décembre
+   2022.&amp;nbsp;
+   DIRECT-Ukraine : l'Ukraine affirme avoir détruit des drones lancés par
+   la Russie sur la capitale Kiev
+   La joie de l&#039;Albiceleste de se savoir en finale ce 13 décembre
+   2022.
+   Coupe du monde 2022 : l'Argentine de Messi en finale, en attendant
+   France-Maroc
    [picto_video.png]
-   Emmanuel Macron aux États-Unis, une visite d'État française aux enjeux
-   européens
-   Le secrétaire d&#039;État américain Antony Blinken avec le ministre
-   turc des Affaires étrangères Mevlut Cavusoglu pour une photo de famille
-   à Bucarest, en Roumanie, le 29 novembre 2022.&amp;nbsp;
-   DIRECT-Ukraine : Kiev appelle les pays de l'Otan à accélérer l'envoi
-   d'aide
-   Les joueurs sénégalais célèbrent leur victoire(2-1) avec leur public,
-   après le match de football du groupe A de la Coupe du monde contre
-   l&#039;Équateur, au stade international Khalifa de Doha, au Qatar, le
-   mardi 29 novembre 2022.&amp;nbsp;
-   Coupe du monde 2022 : le Sénégal, première nation africaine qualifiée
-   pour les huitièmes de finale
-   Un employé de l&#039;université vérifie l&#039;identité des
-   manifestants lors d&#039;un rassemblement de protestation à
-   l&#039;université de Hong Kong, à Hong Kong, mardi 29 novembre 2022.
-   Manifestations en Chine : face à la censure sur les réseaux sociaux,
-   comment protester ?
+   15 : 05
+   Dmitri Mouratov : son combat pour la liberté d'expression
+   Kim Budil, directrice du Laboratoire national Lawrence Livermore, lors
+   d&#039;une conférence de presse annonçant une percée historique dans le
+   domaine de la fusion nucléaire, le 13 décembre 2022 à Washington
+   Les Etats-Unis annoncent une percée historique dans la fusion nucléaire
+   Image d&#039;illustration.
+   Climat : l'Union européenne adopte une "taxe carbone" à ses frontières
+   Manon Aubry est députée européenne depuis 2019. Elue sous les couleurs
+   de La France Insoumise (LFI), elle co-préside aujourd&#039;hui le
+   groupe de la Gauche au Parlement européen.
+   Scandale de corruption au Parlement européen : "Certains pensent que
+   l’on peut acheter des députés comme on achète des clubs de foot"
 
 Les JT - sidebar
 
@@ -266,15 +258,15 @@ Les JT - sidebar
 
 En continu
 
-   11:16
-   Attentats de 2016 à Bruxelles: ouverture du procès en présence
-   d'Abdeslam
-   11:05
-   L'ancien président chinois Jiang Zemin est mort
-   11:01
-   Au Liban en crise, des fans privés de Mondial
-   10:39
-   Côte d'Ivoire : le procès de l'attentat de Grand-Bassam débute
+   10:21
+   L'Ukraine affirme avoir détruit un essaim de drones visant Kiev
+   10:21
+   Le pape appelle à un Noël "humble" pour faire des dons à l'Ukraine
+   10:15
+   Alerte orange neige et verglas dans le Nord: perturbations dans les
+   transports
+   09:46
+   Avoir le Covid et le dire: la fin d'un tabou en Chine
    Tout le fil
 
 Suivez-nous
@@ -301,13 +293,13 @@ Collection Reportages
      *
      *
 
-     * Presse
      * A propos
      * Contact
      * Mentions légales
      * CGU
      * Confidentialité
-     * Charte des cookies
-     * Gérer mes cookies
+     * Cookies
+     * Presse
+     * Offres d'emplois
 
    Recevoir TV5MONDE
