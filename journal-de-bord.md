@@ -6,7 +6,7 @@ mise en forme repertoire ppe1 avec l'ajout d'un dossier "exercices" , ainsi qu'u
 
 ## 20/12 Création d'un site
 
-Création de la première version du site pour commencer la redaction de notre projet
+Création de la première version du site pour commencer la redaction de notre projet. Ce site a été réalisé avec Bulma.
 
 ## 3/01 Mise à jours des scripts
 
