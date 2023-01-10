@@ -3,6 +3,11 @@
 Plusieurs exercices mineurs ont été réalisés tels que des exercices sur les boucles , les tries
 ## 9/11 mise à jours de l'architecture des dossiers
 mise en forme repertoire ppe1 avec l'ajout d'un dossier "exercices" , ainsi qu'un push de quelques scripts vue en cours.
+
+## 20/12 Création d'un site
+
+Création de la première version du site pour commencer la redaction de notre projet
+
 ## 3/01 Mise à jours des scripts
 
 mise à jours du script_aspiration pour avoir sa version finale + maj des noms des scripts exercices pour plus de lisibilité.
