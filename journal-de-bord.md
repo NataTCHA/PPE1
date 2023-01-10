@@ -6,6 +6,6 @@ mise en forme repertoire ppe1 avec l'ajout d'un dossier "exercices" , ainsi qu'u
 ## 3/01 Mise à jours des scripts
 
 mise à jours du script_aspiration pour avoir sa version finale + maj des noms des scripts exercices pour plus de lisibilité.
-
+Nous avions également un problème avec la variable count qui comptait mal les occurences. Nous avons corrigé ce probleme en retirant les "" mis autour de la variable motif
 ## 10/01 Dernière ligne droite
 Relecture du site, ajout de details esthétiques mais aussi pratique tel que la mise à jour sur l'affichage des scripts, desormais ils sont affiché en entier avec leur colorisation syntaxique
